@@ -1,0 +1,2 @@
+# myfsm
+a javascript fsm
